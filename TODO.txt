@@ -4,7 +4,7 @@
 □ テストメソッドが失敗したとしてもtearDownを呼び出す
 □ 複数のテストを走らせる
 □ 収集したテスト結果を出力する
-
+□ WasRunで文字列をログに記録する
 
 * git command
 git add TODO.txt
