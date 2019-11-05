@@ -7,6 +7,7 @@
 ■ WasRunで文字列をログに記録する
 ■ 失敗したテストを出力する
 □ setUpのエラーをキャッチして出力する
+□ TestCaseクラスからTestSuiteを作る
 
 
 * git command
