@@ -71,7 +71,8 @@ class TestCaseTest(TestCase):
 		suite = TestSuiite()
 		suite.add(WasRun("testMethod"))
 		suite.add(WasRun("testBrokenMethod"))
-		result = suite.run()
+		result = TestResult()
+		suite.run()
 		assert("2 run, 1 failed" == result.summary())
 		
 
