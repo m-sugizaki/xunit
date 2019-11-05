@@ -4,3 +4,11 @@
 □ テストメソッドが失敗したとしてもtearDownを呼び出す
 □ 複数のテストを走らせる
 □ 収集したテスト結果を出力する
+
+
+* git command
+git add TODO.txt
+git add xunit.py
+git commit -m "first commit"
+git push -u origin master
+
